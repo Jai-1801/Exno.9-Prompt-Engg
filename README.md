@@ -1,9 +1,9 @@
-# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
+## Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 24/11/2025
+## Date: 24/11/2025
 
-# Register no : 212223230084
-# Name :   Jai Surya R
+## Register no : 212223230084
+## Name :   Jai Surya R
 
 ## Aim: To perform the Exploration of Prompting Techniques for Video Generation
 
